@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ushbub</string>
+    <string name="login">Login</string>
+    <string name="post_code">Post Code</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="refresh">Refresh</string>
+    <string name="product_name">Product Title</string>
+    <string name="weight_title">Weight</string>
+    <string name="weight">...</string>
+    <string name="weight_uom">grams</string>
+    <string name="description_small">...</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="pack_size">Pack size</string>
+    <string name="base_uom">Eaches</string>
+    <string name="min_order">Min Order</string>
+    <string name="colon">:</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
